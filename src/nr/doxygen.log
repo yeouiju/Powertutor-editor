@@ -1,0 +1,9 @@
+warning: source 'main.h' is not a readable file or directory... skipping.
+warning: source 'groups.h' is not a readable file or directory... skipping.
+warning: source 'getting-started.h' is not a readable file or directory... skipping.
+warning: source 'introspected-doxygen.h' is not a readable file or directory... skipping.
+warning: source '../examples' is not a readable file or directory... skipping.
+warning: source '../model' is not a readable file or directory... skipping.
+warning: source '../helper' is not a readable file or directory... skipping.
+warning: source '../test' is not a readable file or directory... skipping.
+error: Project logo './static/lena_logo.png' specified by PROJECT_LOGO does not exist!

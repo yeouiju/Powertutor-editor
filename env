@@ -1,0 +1,3 @@
+export PATH=$PATH:/home/myoungwoo/development/ns-3/ns-allinone-3.36.1/ns-3.36.1/build/lib
+export PYTHONPATH=/home/myoungwoo/development/ns-3/ns-allinone-3.36.1/ns-3.36.1/build/bindings/python
+export LD_LIBRARY_PATH=/home/myoungwoo/development/ns-3/ns-allinone-3.36.1/ns-3.36.1/build/lib
